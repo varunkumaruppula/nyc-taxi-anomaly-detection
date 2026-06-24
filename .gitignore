@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+.env
+gcp-key.json
+degenerate_trips.parquet
+silver_taxi_features.parquet
+validation_scored.parquet
+validation_with_shap.parquet
